@@ -1,5 +1,7 @@
 {
+    //"compileOnSave": true,
     "compilerOptions": {
+        "noEmit": false,
         "outDir": "app",
         "rootDir": "app",
         "module": "commonjs",
